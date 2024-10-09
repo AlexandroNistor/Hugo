@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://alexandronistor.github.io/Hugo/personal/basico/index.html</loc>
+    <lastmod>2024-10-03T18:02:37+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://alexandronistor.github.io/Hugo/personal/externos/index.html</loc>
+    <lastmod>2024-10-03T17:53:05+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://alexandronistor.github.io/Hugo/personal/visuales/index.html</loc>
+    <lastmod>2024-10-03T17:52:57+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://alexandronistor.github.io/Hugo/personal/index.html</loc>
+    <lastmod>2024-10-03T16:55:14+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://alexandronistor.github.io/Hugo/index.html</loc>
+    <lastmod>2024-10-03T16:55:14+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://alexandronistor.github.io/Hugo/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://alexandronistor.github.io/Hugo/tags/index.html</loc>
+  </url>
+</urlset>

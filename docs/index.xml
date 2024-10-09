@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sintaxis Básica :: Primera página HUGO</title>
+    <link>https://alexandronistor.github.io/Hugo/index.html</link>
+    <description>En esta página de HUGO se hará una guía de la sintaxis más básica de “MARKDOWN”. Titulos&#xA;Negrita&#xA;Cursiva&#xA;Codigo&#xA;Imagenes&#xA;Emojis&#xA;Enlaces&#xA;Viñetas&#xA;Enumeraciones</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 16:55:14 +0200</lastBuildDate>
+    <atom:link href="https://alexandronistor.github.io/Hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía Básica</title>
+      <link>https://alexandronistor.github.io/Hugo/personal/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 16:55:14 +0200</pubDate>
+      <guid>https://alexandronistor.github.io/Hugo/personal/index.html</guid>
+      <description>Un poco de historia. Orígenes de Markdown Markdown fue creado en 2004 por John Gruber y Aaron Swartz con el objetivo de facilitar la escritura de texto sin complicaciones, en un formato legible tanto en su forma “en bruto” como en su versión convertida a HTML. Su diseño se basa en el principio de que debería ser fácil de leer y escribir, sin necesidad de aprender una sintaxis compleja, lo que lo convirtió en una herramienta popular entre bloggers y desarrolladores.</description>
+    </item>
+  </channel>
+</rss>

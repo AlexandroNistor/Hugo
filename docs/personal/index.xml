@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guía Básica :: Primera página HUGO</title>
+    <link>https://alexandronistor.github.io/Hugo/personal/index.html</link>
+    <description>Un poco de historia. Orígenes de Markdown Markdown fue creado en 2004 por John Gruber y Aaron Swartz con el objetivo de facilitar la escritura de texto sin complicaciones, en un formato legible tanto en su forma “en bruto” como en su versión convertida a HTML. Su diseño se basa en el principio de que debería ser fácil de leer y escribir, sin necesidad de aprender una sintaxis compleja, lo que lo convirtió en una herramienta popular entre bloggers y desarrolladores.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 18:02:37 +0200</lastBuildDate>
+    <atom:link href="https://alexandronistor.github.io/Hugo/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basico</title>
+      <link>https://alexandronistor.github.io/Hugo/personal/basico/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 18:02:37 +0200</pubDate>
+      <guid>https://alexandronistor.github.io/Hugo/personal/basico/index.html</guid>
+      <description>1. Encabezados Se utilizan los signos de almohadilla (#). Cuantas más almohadillas uses, menor será el nivel del encabezado (de h1 a h6).&#xA;# Encabezado 1 ## Encabezado 2 ### Encabezado 3 #### Encabezado 4 ##### Encabezado 5 ###### Encabezado 6&#xD;2. Negrita Se utilizan los signos (**texto**) o (__texto__) para poner el texto en negrita, las 2 maneras sirven.&#xA;**Texto en negrita** __Texto en negrita__&#xD;3. Cursiva Se utilizan los signos (*texto*) o (_texto_) para poner el texto en cursiva, las 2 maneras sirven.</description>
+    </item>
+    <item>
+      <title>Externos</title>
+      <link>https://alexandronistor.github.io/Hugo/personal/externos/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 17:53:05 +0200</pubDate>
+      <guid>https://alexandronistor.github.io/Hugo/personal/externos/index.html</guid>
+      <description>1. Enlaces En markdown se pueden poner los enlaces de 2 maneras.&#xA;La primera es un texto enlazado:&#xA;[texto que tendrá el enlazado](url)&#xD;La segunda es un enlace o URL sin texto alternativo:&#xA;&lt;url&gt;</description>
+    </item>
+    <item>
+      <title>Visuales</title>
+      <link>https://alexandronistor.github.io/Hugo/personal/visuales/index.html</link>
+      <pubDate>Thu, 03 Oct 2024 17:52:57 +0200</pubDate>
+      <guid>https://alexandronistor.github.io/Hugo/personal/visuales/index.html</guid>
+      <description>1. Imágenes Para colocar imágenes en Markdown se usan estos símbolos (&#34;![]()&#34;).&#xA;![Texto id](url_de_la_imágen)&#xD;2. Emojis Para poner emojis con Markdown se usan los dos puntos al inicio y final y el nombre del emoji o simplemente copiando y pegando los emojis. Normalmente estos solo se verá en una página que los soporte como GitHub.&#xA;:smile: :car: :rocket:&#xD;😄——🚗——🚀——</description>
+    </item>
+  </channel>
+</rss>
