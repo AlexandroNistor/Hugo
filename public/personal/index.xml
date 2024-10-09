@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guía Básica on Primera página HUGO</title>
+    <link>http://localhost:1313/personal/</link>
+    <description>Recent content in Guía Básica on Primera página HUGO</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 18:02:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basico</title>
+      <link>http://localhost:1313/personal/basico/</link>
+      <pubDate>Thu, 03 Oct 2024 18:02:37 +0200</pubDate>
+      <guid>http://localhost:1313/personal/basico/</guid>
+      <description>&lt;h3 id=&#34;1-encabezados&#34;&gt;1. Encabezados&lt;/h3&gt;&#xA;&lt;p&gt;Se utilizan los signos de almohadilla (&lt;code&gt;#&lt;/code&gt;). Cuantas más almohadillas uses, menor será el nivel del encabezado (de &lt;code&gt;h1&lt;/code&gt; a &lt;code&gt;h6&lt;/code&gt;).&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Encabezado 1&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Encabezado 2&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;### Encabezado 3&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#### Encabezado 4&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##### Encabezado 5&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;###### Encabezado 6&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;2-negrita&#34;&gt;2. Negrita&lt;/h3&gt;&#xA;&lt;p&gt;Se utilizan los signos (&lt;code&gt;**texto**&lt;/code&gt;) o (&lt;code&gt;__texto__&lt;/code&gt;) para poner el texto en negrita, las 2 maneras sirven.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;**Texto en negrita**&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;__Texto en negrita__&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;3-cursiva&#34;&gt;3. Cursiva&lt;/h3&gt;&#xA;&lt;p&gt;Se utilizan los signos (&lt;code&gt;*texto*&lt;/code&gt;) o (&lt;code&gt;_texto_&lt;/code&gt;) para poner el texto en cursiva, las 2 maneras sirven.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Externos</title>
+      <link>http://localhost:1313/personal/externos/</link>
+      <pubDate>Thu, 03 Oct 2024 17:53:05 +0200</pubDate>
+      <guid>http://localhost:1313/personal/externos/</guid>
+      <description>&lt;h3 id=&#34;1-enlaces&#34;&gt;1. Enlaces&lt;/h3&gt;&#xA;&lt;p&gt;En markdown se pueden poner los enlaces de 2 maneras.&lt;/p&gt;&#xA;&lt;p&gt;La primera es un texto enlazado:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#f92672&#34;&gt;texto que tendrá el enlazado&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;url&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;La segunda es un enlace o URL sin texto alternativo:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;url&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Visuales</title>
+      <link>http://localhost:1313/personal/visuales/</link>
+      <pubDate>Thu, 03 Oct 2024 17:52:57 +0200</pubDate>
+      <guid>http://localhost:1313/personal/visuales/</guid>
+      <description>&lt;h3 id=&#34;1-imágenes&#34;&gt;1. Imágenes&lt;/h3&gt;&#xA;&lt;p&gt;Para colocar imágenes en Markdown se usan estos símbolos (&lt;code&gt;&amp;quot;![]()&amp;quot;&lt;/code&gt;).&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;![&lt;span style=&#34;color:#f92672&#34;&gt;Texto id&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;url_de_la_imágen&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;2-emojis&#34;&gt;2. Emojis&lt;/h3&gt;&#xA;&lt;p&gt;Para poner emojis con Markdown se usan los dos puntos al inicio y final y el nombre del emoji o simplemente copiando y pegando los emojis.&#xA;Normalmente estos solo se verá en una página que los soporte como GitHub.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;:smile: :car: :rocket:&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;😄&amp;mdash;&amp;mdash;🚗&amp;mdash;&amp;mdash;🚀&amp;mdash;&amp;mdash;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
